@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Humanity Guard
+version: 0.1.0
+date-released: 2026-10-25
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    orcid: https://orcid.org/0009-0000-9778-5374
+    affiliation: Spark AI NLP, Fredericton, New Brunswick, Canada
+  - family-names: Lee
+    given-names: Mun Seok
+license: AGPL-3.0-only
+repository-code: https://github.com/sparkainlp-x/humanity-guard
+abstract: >-
+  Human-gated defensive sensing, verification, and refusal, with a hash-chained ledger. Only alert and decoy actions exist; no lethal action exists. Synthetic toy only.
